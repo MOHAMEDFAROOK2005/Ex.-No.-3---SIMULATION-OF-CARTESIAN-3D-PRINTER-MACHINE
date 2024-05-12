@@ -54,8 +54,8 @@
 ![image](https://github.com/Raji1009/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/89059861/046b20d9-22ab-4779-b66e-cfaf4b3bc896)
 
 
-### Name: Rajalakshmi R
-### Register Number: 23013958
+### Name: MOHAMEDFAROOK S
+### Register Number: 23014058
 
 ## Result: 
 ### Thus the simulation on construction of cartesian 3D printer is completed & movement of axis along X, Y, & Z has been studied.
