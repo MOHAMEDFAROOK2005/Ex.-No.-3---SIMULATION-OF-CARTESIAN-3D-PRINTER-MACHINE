@@ -1,6 +1,4 @@
-# Ex. No.3 - SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE
-### DATE: 20.11.2023
-
+# Ex. No.5 - SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE
 ## AIM:
 ### To simulate the construction of cartesian 3D printer and to get in-depth knowledge of mechatronics of cartesian 3D printers.
 
@@ -54,7 +52,7 @@
 ![image](https://github.com/Raji1009/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/89059861/046b20d9-22ab-4779-b66e-cfaf4b3bc896)
 
 
-### Name: MOHAMEDFAROOK S
+### Name: MOHAMED FAROOK S
 ### Register Number: 23014058
 
 ## Result: 
